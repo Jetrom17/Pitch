@@ -1,5 +1,3 @@
-<! -- ⭐ PORTFOLIO START ⭐ -- >
-
 # Pitch
 
 <div>
@@ -10,9 +8,6 @@
 |---------------|----------------------------------------|
 | Jeiel Miranda | [Jetronix.ml](https://www.jetronix.ml) | 
 |               |                                        |
-
-
-<! -- ⭐ PORTFOLIO END ⭐ -- >
 
 ```bash
           .  .
